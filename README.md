@@ -133,14 +133,6 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
-            <a href="https://intelstack.com/" target="_blank">Critical Stack Intel</a>
-        </td>
-        <td>
-            The free threat intelligence parsed and aggregated by Critical Stack is ready for use in any Bro production system. You can specify which feeds you trust and want to ingest. Will soon be made unavailable and may become available on https://developer.capitalone.com/resources/open-source.
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://app.crowdsec.net/" target="_blank">CrowdSec Console</a>
         </td>
         <td>
@@ -273,14 +265,6 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
         <td>
             GreyNoise collects and analyzes data on Internet-wide scanning activity. It collects data on benign scanners such as Shodan.io, as well as malicious actors like SSH and telnet worms. 
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="http://hailataxii.com/" target="_blank">Hail a TAXII</a>
-        </td>
-        <td>
-            Hail a TAXII.com is a repository of Open Source Cyber Threat Intelligence feeds in STIX format. They offer several feeds, including some that are listed here already in a different format, like the Emerging Threats rules and PhishTank feeds.
         </td>
     </tr>
     <tr>
@@ -436,7 +420,7 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
         </td>
     </tr>
     <tr>
-        <td><a href="http://data.netlab.360.com/">Netlab OpenData Project</a>
+        <td><a href="https://blog.netlab.360.com/tag/english/">Netlab OpenData Project</a>
       </td>
       <td>
             The Netlab OpenData project was presented to the public first at ISC' 2016 on August 16, 2016. We currently provide multiple data feeds, including DGA, EK, MalCon, Mirai C2, Mirai-Scanner, Hajime-Scanner and DRDoS Reflector.
@@ -818,14 +802,6 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
-            <a href="https://www.fidelissecurity.com/resources/fidelis-barncat" target="_blank">Barncat</a>
-        </td>
-        <td>
-            Fidelis Cybersecurity offers free access to Barncat after registration. The platform is intended to be used by CERTs, researchers, governments, ISPs and other, large organizations. The database holds various configuration settings used by attackers.
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://github.com/csirtgadgets/bearded-avenger" target="_blank">Bearded Avenger</a>
         </td>
         <td>
@@ -1166,6 +1142,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
         </td>
         <td>
             AIEngine is a next generation interactive/programmable Python/Ruby/Java/Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/referefref/aiocrioc" target="_blank">AIOCRIOC</a>
+        </td>
+        <td>
+            Artificial Intelligence Ocular Character Recognition Indicator of Compromise (AIOCRIOC) is a tool that combines web scraping, the OCR capabilities of Tesseract and OpenAI compatible LLM API's such as GPT-4 to parse and extract IOCs from reports and other web content including embedded images with contextual data.
         </td>
     </tr>
     <tr>
@@ -1620,13 +1604,21 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://stixvalidator.com" target="_blank">Stixvalidator.com</a>
+        </td>
+        <td>
+            Stixvalidator.com is an online free STIX and STIX2 validator service.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/traut/stixview" target="_blank">Stixview</a>
         </td>
         <td>
             Stixview is a JS library for embeddable interactive STIX2 graphs.
         </td>
     </tr>
-    <tr>
+	<tr>
         <td>
             <a href="https://github.com/STIXProject/stix-viz" target="_blank">stix-viz</a>
         </td>
@@ -1777,6 +1769,14 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
         </td>
         <td>
             The Cyber Analytics Repository (CAR) is a knowledge base of analytics developed by MITRE based on the Adversary Tactics, Techniques, and Common Knowledge (ATT&CK™) threat model.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://cti-cmm.org/" target="_blank">Cyber Threat Intelligence Capability Maturity Model (CTI-CMM)</a>
+        </td>
+        <td>
+            A new <a href="https://cti-cmm.org/" target="_blank">Cyber Threat Intelligence Capability Maturity Model (CTI-CMM)</a> using a stakeholder-first approach and aligned with the <a href="https://www.energy.gov/ceser/cybersecurity-capability-maturity-model-c2m2" target="_blank">Cybersecurity Capability Maturity Model (C2M2)</a> to empower your team and create lasting value.
         </td>
     </tr>
     <tr>
